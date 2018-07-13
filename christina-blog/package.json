@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://calderete.github.io/christina",
   "dependencies": {
+    "create-react-class": "^15.6.3",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "1.1.4"
